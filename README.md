@@ -24,7 +24,9 @@ The project involves several key steps:
 
 ## Key Results
 
-- The comparison between MLPClassifier and LogisticRegression in terms of accuracy is depicted in the notebook. ![MLP vs Logistic Regression Accuracy Comparison](models_comparison.png)
+- The comparison between MLPClassifier and LogisticRegression in terms of accuracy is depicted in the notebook.
+
+  ![MLP vs Logistic Regression Accuracy Comparison](models_comparison.png)
 
 - Insights on the best parameters and structure for MLP and other machine learning algorithms that yield the desired results are discussed.
 
